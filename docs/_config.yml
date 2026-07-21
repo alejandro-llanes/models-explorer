@@ -1,0 +1,12 @@
+title: modelx
+description: >-
+  Fast cross-platform TUI + CLI to explore, compare, and query LLM models —
+  context windows, pricing, and capabilities from models.dev. Built in Rust
+  with ratatui.
+# Absolute site URL so jekyll-seo-tag emits correct https canonical / OG URLs,
+# and baseurl so the theme's CSS/asset paths resolve under the project path.
+url: "https://alejandrollanes.com"
+baseurl: "/models-explorer"
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag

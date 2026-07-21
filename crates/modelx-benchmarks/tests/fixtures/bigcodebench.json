@@ -1,0 +1,84 @@
+{
+ "rows": [
+  {
+   "row_idx": 0,
+   "row": {
+    "model": "Magicoder-S-DS-6.7B",
+    "link": "https://huggingface.co/ise-uiuc/Magicoder-S-DS-6.7B",
+    "moe": false,
+    "size": 6.7,
+    "act_param": 6.7,
+    "type": "\ud83d\udd36",
+    "complete": 47.6,
+    "instruct": 36.2,
+    "date": "2024-12-04",
+    "prefill": true
+   },
+   "truncated_cells": []
+  },
+  {
+   "row_idx": 1,
+   "row": {
+    "model": "StarCoder2-15B-Instruct-v0.1",
+    "link": "https://huggingface.co/bigcode/starcoder2-15b-instruct-v0.1",
+    "moe": false,
+    "size": 15.0,
+    "act_param": 15.0,
+    "type": "\ud83d\udd36",
+    "complete": 45.1,
+    "instruct": 37.6,
+    "date": "2024-04-30",
+    "prefill": true
+   },
+   "truncated_cells": []
+  },
+  {
+   "row_idx": 2,
+   "row": {
+    "model": "StarCoder2-3B",
+    "link": "https://huggingface.co/bigcode/starcoder2-3b",
+    "moe": false,
+    "size": 3.0,
+    "act_param": 3.0,
+    "type": "\ud83d\udfe2",
+    "complete": 21.4,
+    "instruct": null,
+    "date": "2024-02-29",
+    "prefill": true
+   },
+   "truncated_cells": []
+  },
+  {
+   "row_idx": 3,
+   "row": {
+    "model": "StarCoder2-7B",
+    "link": "https://huggingface.co/bigcode/starcoder2-7b",
+    "moe": false,
+    "size": 7.0,
+    "act_param": 7.0,
+    "type": "\ud83d\udfe2",
+    "complete": 27.7,
+    "instruct": null,
+    "date": "2024-02-29",
+    "prefill": true
+   },
+   "truncated_cells": []
+  },
+  {
+   "row_idx": 4,
+   "row": {
+    "model": "StarCoder2-15B",
+    "link": "https://huggingface.co/bigcode/starcoder2-15b",
+    "moe": false,
+    "size": 15.0,
+    "act_param": 15.0,
+    "type": "\ud83d\udfe2",
+    "complete": 38.4,
+    "instruct": null,
+    "date": "2024-02-29",
+    "prefill": true
+   },
+   "truncated_cells": []
+  }
+ ]
+}

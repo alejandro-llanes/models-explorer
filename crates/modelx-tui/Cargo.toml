@@ -1,0 +1,19 @@
+[package]
+name = "modelx-tui"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+authors.workspace = true
+description = "ratatui-based terminal UI for modelx"
+
+[dependencies]
+modelx-core = { path = "../modelx-core" }
+modelx-datasource = { path = "../modelx-datasource" }
+modelx-cache = { path = "../modelx-cache" }
+modelx-export = { path = "../modelx-export" }
+modelx-benchmarks = { path = "../modelx-benchmarks" }
+ratatui = "0.30.2"
+arboard = "3.6.1"
+thiserror = "2.0.18"
+anyhow = "1.0.103"
+serde_json = "1.0.150"

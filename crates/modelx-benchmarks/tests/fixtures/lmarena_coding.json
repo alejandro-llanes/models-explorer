@@ -1,0 +1,89 @@
+{
+ "rows": [
+  {
+   "row_idx": 722,
+   "row": {
+    "model_name": "claude-opus-4-6",
+    "organization": "anthropic",
+    "license": "Proprietary",
+    "rating": 1535.8765108010277,
+    "rating_lower": 1530.0493585790884,
+    "rating_upper": 1541.703663022967,
+    "variance": 8.83927294358322,
+    "vote_count": 17919.0,
+    "rank": 1.0,
+    "category": "coding",
+    "leaderboard_publish_date": "2026-07-16"
+   },
+   "truncated_cells": []
+  },
+  {
+   "row_idx": 723,
+   "row": {
+    "model_name": "claude-opus-4-6-thinking",
+    "organization": "anthropic",
+    "license": "Proprietary",
+    "rating": 1533.7622145204352,
+    "rating_lower": 1527.698058904588,
+    "rating_upper": 1539.8263701362825,
+    "variance": 9.572921395150704,
+    "vote_count": 15756.0,
+    "rank": 2.0,
+    "category": "coding",
+    "leaderboard_publish_date": "2026-07-16"
+   },
+   "truncated_cells": []
+  },
+  {
+   "row_idx": 724,
+   "row": {
+    "model_name": "claude-opus-4-7-thinking",
+    "organization": "anthropic",
+    "license": "Proprietary",
+    "rating": 1519.319186980245,
+    "rating_lower": 1512.6896964732305,
+    "rating_upper": 1525.9486774872594,
+    "variance": 11.441003648362214,
+    "vote_count": 13788.0,
+    "rank": 3.0,
+    "category": "coding",
+    "leaderboard_publish_date": "2026-07-16"
+   },
+   "truncated_cells": []
+  },
+  {
+   "row_idx": 725,
+   "row": {
+    "model_name": "claude-fable-5",
+    "organization": "anthropic",
+    "license": "Proprietary",
+    "rating": 1517.3483142546388,
+    "rating_lower": 1504.9795093086507,
+    "rating_upper": 1529.717119200627,
+    "variance": 39.825322340499575,
+    "vote_count": 2470.0,
+    "rank": 4.0,
+    "category": "coding",
+    "leaderboard_publish_date": "2026-07-16"
+   },
+   "truncated_cells": []
+  },
+  {
+   "row_idx": 726,
+   "row": {
+    "model_name": "claude-opus-4-7",
+    "organization": "anthropic",
+    "license": "Proprietary",
+    "rating": 1516.4161221807049,
+    "rating_lower": 1509.8692372077267,
+    "rating_upper": 1522.9630071536833,
+    "variance": 11.157662973897251,
+    "vote_count": 14086.0,
+    "rank": 5.0,
+    "category": "coding",
+    "leaderboard_publish_date": "2026-07-16"
+   },
+   "truncated_cells": []
+  }
+ ]
+}

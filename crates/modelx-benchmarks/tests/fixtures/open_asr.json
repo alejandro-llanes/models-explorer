@@ -1,0 +1,129 @@
+{
+ "rows": [
+  {
+   "row_idx": 0,
+   "row": {
+    "model": "abr-ai/niagara-19m-batch.en",
+    "avg cleaned": 9.878571429,
+    "avg original": 10.67857143,
+    "RTFx": 3735.48,
+    "License": "applied-brain-research-open-license",
+    "Size (B)": 0.02,
+    "# Languages": null,
+    "Encoder": null,
+    "Decoder": null,
+    "AMI-Cleaned WER": 16.71,
+    "Earnings22 WER": 13.18,
+    "Gigaspeech-Cleaned WER": 14.07,
+    "LS Clean WER": 4.45,
+    "LS Other WER": 10.95,
+    "SPGISpeech WER": 3.86,
+    "Voxpopuli-AA-Cleaned WER": 5.93,
+    "AMI WER": 18.28,
+    "Gigaspeech WER": 14.21,
+    "Voxpopuli WER": 9.82
+   },
+   "truncated_cells": []
+  },
+  {
+   "row_idx": 1,
+   "row": {
+    "model": "abr-ai/niagara-38m-batch.en",
+    "avg cleaned": 8.301428571,
+    "avg original": 9.06,
+    "RTFx": 4048.7,
+    "License": "applied-brain-research-open-license",
+    "Size (B)": 0.038,
+    "# Languages": null,
+    "Encoder": null,
+    "Decoder": null,
+    "AMI-Cleaned WER": 13.76,
+    "Earnings22 WER": 11.83,
+    "Gigaspeech-Cleaned WER": 11.31,
+    "LS Clean WER": 3.75,
+    "LS Other WER": 9.22,
+    "SPGISpeech WER": 3.08,
+    "Voxpopuli-AA-Cleaned WER": 5.16,
+    "AMI WER": 15.46,
+    "Gigaspeech WER": 11.41,
+    "Voxpopuli WER": 8.67
+   },
+   "truncated_cells": []
+  },
+  {
+   "row_idx": 2,
+   "row": {
+    "model": "aquavoice/avalon-v1-en",
+    "avg cleaned": 5.228571429,
+    "avg original": 6.02,
+    "RTFx": null,
+    "License": "Proprietary",
+    "Size (B)": null,
+    "# Languages": null,
+    "Encoder": null,
+    "Decoder": null,
+    "AMI-Cleaned WER": 9.71,
+    "Earnings22 WER": 10.98,
+    "Gigaspeech-Cleaned WER": 8.03,
+    "LS Clean WER": 1.27,
+    "LS Other WER": 2.87,
+    "SPGISpeech WER": 1.88,
+    "Voxpopuli-AA-Cleaned WER": 1.86,
+    "AMI WER": 10.19,
+    "Gigaspeech WER": 8.07,
+    "Voxpopuli WER": 6.88
+   },
+   "truncated_cells": []
+  },
+  {
+   "row_idx": 3,
+   "row": {
+    "model": "assemblyai/universal-3-5-pro",
+    "avg cleaned": 5.028571429,
+    "avg original": null,
+    "RTFx": null,
+    "License": "Proprietary",
+    "Size (B)": null,
+    "# Languages": 18.0,
+    "Encoder": null,
+    "Decoder": null,
+    "AMI-Cleaned WER": 10.63,
+    "Earnings22 WER": 10.02,
+    "Gigaspeech-Cleaned WER": 7.62,
+    "LS Clean WER": 1.1,
+    "LS Other WER": 2.1,
+    "SPGISpeech WER": 1.81,
+    "Voxpopuli-AA-Cleaned WER": 1.92,
+    "AMI WER": null,
+    "Gigaspeech WER": null,
+    "Voxpopuli WER": null
+   },
+   "truncated_cells": []
+  },
+  {
+   "row_idx": 4,
+   "row": {
+    "model": "assemblyai/universal-3-pro",
+    "avg cleaned": 5.172857143,
+    "avg original": 6.061428571,
+    "RTFx": null,
+    "License": "Proprietary",
+    "Size (B)": null,
+    "# Languages": 99.0,
+    "Encoder": null,
+    "Decoder": null,
+    "AMI-Cleaned WER": 11.06,
+    "Earnings22 WER": 10.89,
+    "Gigaspeech-Cleaned WER": 7.54,
+    "LS Clean WER": 1.1,
+    "LS Other WER": 2.27,
+    "SPGISpeech WER": 1.52,
+    "Voxpopuli-AA-Cleaned WER": 1.83,
+    "AMI WER": 12.56,
+    "Gigaspeech WER": 7.6,
+    "Voxpopuli WER": 6.49
+   },
+   "truncated_cells": []
+  }
+ ]
+}

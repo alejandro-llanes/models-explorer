@@ -1,0 +1,18 @@
+[workspace]
+resolver = "2"
+members = ["crates/*"]
+
+[workspace.package]
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+authors = ["sombra.libre@gmail.com"]
+description = "modelx — a terminal UI for exploring LLM models and providers"
+
+[profile.release]
+opt-level = 3         # full runtime speed
+lto = "fat"           # whole-program optimization (smaller + faster)
+codegen-units = 1     # better cross-crate inlining; smaller binary
+strip = true          # drop symbols
+panic = "abort"       # no unwinding tables (smaller); the TUI panic hook
+                      # still runs to restore the terminal before aborting
